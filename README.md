@@ -34,6 +34,14 @@ node_modules
 
 ## Prettier Config
 
+1) create `.prettierrc.json` file:
+
+```bash
+touch .prettierrc.json
+```
+
+2) add prettier config:
+
 ```bash
 {
   "printWidth": 80,
