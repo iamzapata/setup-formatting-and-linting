@@ -1,9 +1,3 @@
-# Install lint-staged
-
-```bash
-yarn add lint-staged -D
-```
-
 ## Install Prettier
 
 ```bash
@@ -84,6 +78,12 @@ module.exports = {
   },
 }
 
+```
+
+## Install lint-staged
+
+```bash
+yarn add lint-staged -D
 ```
 
 ## Install Husky
